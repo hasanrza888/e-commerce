@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar li{
+    list-style: none;
+    display: flex;
+    font-style: italic;
+    color: brown;
+    margin: 10px;
+    float: right;
+}
+ul{
+    border: 2px solid gray;
+    margin: 20px;
+    text-align: center;
+    padding: 2px;
+}
+ul:hover{
+    border-color: white;
+    transition: 0.2s;
+}
